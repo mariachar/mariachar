@@ -1,7 +1,7 @@
 hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Maria
 =============================================================================================================================
 
-I am a full-stack developer from Greece and an AI enthousiast. I'm extremely passionate about programming and thrilled with all the things you can do with it.
+I am a software developer from Greece and an AI enthousiast. I'm extremely passionate about programming and thrilled with all the things you can do with it.
 
  📫  You can contact me at [mariachar57@gmail.com](mailto:mariachar57@gmail.com)
 
