@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bai+Jamjuree&weight=500&size=23&duration=3000&pause=100&color=f0db4f&background=9592E100&center=true&vCenter=true&random=false&width=435&lines=hi+there!;I'm+Maria+🌝;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bai+Jamjuree&weight=500&size=23&duration=3000&pause=100&color=F0F8FF&background=9592E100&center=true&vCenter=true&random=false&width=435&lines=hi+there!;I'm+Maria+🌝;" />
 </h1>
 
 
@@ -43,5 +43,5 @@ check out my portfolio at [https://mariachar.github.io/](http://mariachar.github
 
 ### stats:
 
-<a href="https://github.com/mariachar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariachar&hide=jupyter%20notebook&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><img src="https://media1.tenor.com/m/GmsndNiwYyYAAAAC/the-simpsons-hi.gif" alt="Your Gif" />
+<a href="https://github.com/mariachar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariachar&hide=jupyter%20notebook&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><img src="https://y.yarn.co/c4562754-140e-4821-b6cd-3ca774fec9d3_text.gif" alt="Your Gif" />
               
