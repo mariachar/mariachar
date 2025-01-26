@@ -3,9 +3,8 @@
 </h1>
 
 
-<h4> I am a software developer from Greece and an AI enthousiast. I'm extremely passionate about programming and thrilled with all the things you can do with it! </h4>
+<h4> I am a security analyst from Greece and a programming enthusiast. </h4>
 
-📍 You can contact me at [mariachar57@gmail.com](mailto:mariachar57@gmail.com) or
 check out my portfolio at [https://mariachar.github.io/](http://mariachar.github.io/).
 
 ### socials:
