@@ -34,13 +34,5 @@ check out my portfolio at [https://mariachar.github.io/](http://mariachar.github
 </p>
 
 
- ### languages and tools:
- 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cs,react,flask,django,git,mysql,postgres,tailwind,bootstrap"/>
-</p>
-
-
 ### stats:
-
-<a href="https://github.com/mariachar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariachar&hide=jupyter%20notebook&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><img src="https://y.yarn.co/c4562754-140e-4821-b6cd-3ca774fec9d3_text.gif" alt="Your Gif" />             
+<img src="https://y.yarn.co/c4562754-140e-4821-b6cd-3ca774fec9d3_text.gif" alt="Your Gif" />             
